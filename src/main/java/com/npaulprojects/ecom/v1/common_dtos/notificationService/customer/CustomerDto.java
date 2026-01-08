@@ -1,4 +1,4 @@
-package com.npaulprojects.ecom.v1.common_dtos.customer;
+package com.npaulprojects.ecom.v1.common_dtos.customer.notificationService;
 
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotNull;
